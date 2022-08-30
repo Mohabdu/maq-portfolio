@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/maq-portfolio/static/css/main.de5908d0.css",
+    "main.js": "/maq-portfolio/static/js/main.b72b6540.js",
+    "static/media/ffffff.jpg": "/maq-portfolio/static/media/ffffff.2217b8829b761f955295.jpg",
+    "index.html": "/maq-portfolio/index.html",
+    "main.de5908d0.css.map": "/maq-portfolio/static/css/main.de5908d0.css.map",
+    "main.b72b6540.js.map": "/maq-portfolio/static/js/main.b72b6540.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5908d0.css",
+    "static/js/main.b72b6540.js"
+  ]
+}
